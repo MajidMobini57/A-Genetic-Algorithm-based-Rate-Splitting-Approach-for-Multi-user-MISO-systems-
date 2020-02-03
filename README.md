@@ -1,0 +1,2 @@
+# A-Genetic-Algorithm-based-Rate-Splitting-Approach-for-Multi-user-MISO-systems-
+ In a Rate Splitting (RS) approach, each message is split into a common message and private message. This project is introduced and generalized based on the  genetic algorithm  (GA)  to  finding  an  optimal  power  splitting ratio, suggesting a systematic method for dividing power. this solution may be more exact but since it is an iterative approach, it increases processing time of transmission. 
